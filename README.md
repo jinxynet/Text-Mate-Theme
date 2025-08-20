@@ -32,7 +32,10 @@ If you enjoy this theme and want to support me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=for-the-badge)](https://buymeacoffee.com/vivekgohel)
 
-<img src="upi-qr.png" alt="Scan to Pay" width="300" height="300">
+<img src="assets/upi-qr.png" alt="Scan to Pay" width="300" height="300">
+
+
+
 
 Thank you so much!
 
