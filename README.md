@@ -2,10 +2,8 @@
 A clean and simple color scheme for Sublime Text.
 
 ## 📸 Screenshots
-
-![Preview 1](Screenshot.png)  
-
-![Preview 2](Screenshot-2.png)  
+ 
+<img src="Screenshot.png" alt="Scan to Pay" width="400" height="400">  <img src="Screenshot-2.png" alt="Scan to Pay" width="400" height="400">
 
 
 ## Installation (Manual)
@@ -34,7 +32,7 @@ If you enjoy this theme and want to support me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=for-the-badge)](https://buymeacoffee.com/vivekgohel)
 
-![Scan to Pay](upi-qr.png)
+<img src="upi-qr.png" alt="Scan to Pay" width="300" height="300">
 
 Thank you so much!
 
