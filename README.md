@@ -32,8 +32,8 @@ A clean and simple color scheme for Sublime Text.
 
 If you enjoy this theme and want to support me:
 
-* ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/YOURUSERNAME)
-* 💙 [Ko-fi](https://ko-fi.com/YOURUSERNAME)
+* ☕ [Buy Me a Coffee](https://buymeacoffee.com/vivekgohel)
+* 💙 [Ko-fi](https://ko-fi.com/vivekgohel)
 
 Thank you so much!
 
