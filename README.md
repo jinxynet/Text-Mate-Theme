@@ -39,3 +39,11 @@ If you enjoy this theme and want to support me:
 Thank you so much!
 
 
+If you enjoy this theme and want to support me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow?style=for-the-badge)](https://buymeacoffee.com/vivekgohel)
+[![Support via UPI](https://img.shields.io/badge/UPI-Support-green?style=for-the-badge&logo=googlepay)](https://support-vivek.netlify.app/)
+
+Thank you so much!
+
+
