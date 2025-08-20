@@ -2,8 +2,11 @@
 A clean and simple color scheme for Sublime Text.
 
 ## 📸 Screenshots
+
 ![Preview 1](Screenshot.png)  
+
 ![Preview 2](Screenshot-2.png)  
+
 
 ## Installation (Manual)
 
