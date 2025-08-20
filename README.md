@@ -33,6 +33,7 @@ A clean and simple color scheme for Sublime Text.
 If you enjoy this theme and want to support me:
 
 * ☕ [Buy Me a Coffee](https://buymeacoffee.com/vivekgohel)
+* 💸 [Support via UPI](https://support-vivek.netlify.app/)
 
 Thank you so much!
 
