@@ -9,16 +9,12 @@ A clean and simple color scheme for Sublime Text.
 
 ## 1. Quick Install (Linux)
 
-1. Download this repository and extract it (or clone it).
+Open terminal and run the installer:
 
-2. Open a terminal and navigate to the folder containing `installer_linux.sh`.
-
-3. Run the installer:
-   ```bash
-   bash installer_linux.sh
-   ```
-4. Go to:
-   **Preferences → Select Color Scheme → Text-Mate**
+  ```bash
+  curl -sS -o installer_linux.sh https://raw.githubusercontent.com/vivekgohel2004/Text-Mate-Theme/main/installer_linux.sh
+  bash installer_linux.sh
+  ```
 
 
 ## 2. Installation (Manual)
