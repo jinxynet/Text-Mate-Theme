@@ -6,7 +6,16 @@ A clean and simple color scheme for Sublime Text.
 <img src="Screenshot.png" alt="Scan to Pay" width="400" height="400">  <img src="Screenshot-2.png" alt="Scan to Pay" width="400" height="400">
 
 
-## Installation (Manual)
+
+## 1. Quick Install (Linux)
+
+If you’re on Linux, just run the installer script:
+
+```bash
+bash installer_linux.sh
+```
+
+## 2. Installation (Manual)
 
 1. Download this repo as ZIP and extract it.
 
