@@ -17,6 +17,7 @@ Open terminal and run the installer:
   ```
   ```ps1
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/vivekgohel2004/Text-Mate-Theme/main/installer_windows.ps1" -OutFile "installer_windows.ps1"
+./installer_windows.ps1
   ```
 ## 2. Installation (Manual)
 
